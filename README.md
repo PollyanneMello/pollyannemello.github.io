@@ -3,8 +3,8 @@ Remodulação do site https://marcasdoevangelho.com.br/ ... utilizando  UI Desig
 Como está ficando: https://pollyannemello.github.io/
 
 Objetivo: 
-1-Carrossel com opção de avançar e voltar 
-2- Página para EBD
+1- Carrossel com opção de avançar e voltar                                                                                    
+2- Página para EBD                                                   
 3- Página para blog
 4- Página para Devocional 
 5- Página para Calendário 
