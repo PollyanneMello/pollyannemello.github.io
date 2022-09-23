@@ -38,7 +38,34 @@ a{
 }
 .logo{
     width: 15%;
-    margin-top: -2rem;
+    margin-top: -1.8rem;
     margin-left: 50px;
     
   }
+.central{
+    display: grid;
+    justify-content: center;
+    margin-top: 3rem;
+    font-family: ;
+}
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    max-width: 900px
+   
+}
+.texto, p {
+    text-align: left;
+    margin-top: 10px;
+}
+.texto::before{
+    display: block;
+    width: 50;
+    height: 10px;
+    background-color: #c20dc2;
+}
+.banner{
+    max-width: 100%;
+}
+
