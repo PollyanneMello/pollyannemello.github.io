@@ -3,7 +3,6 @@ body{
     background-color: #f7f7f7;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     display: grid;
-    
 }
 body::before{
     content: '';
@@ -37,13 +36,9 @@ a{
     font-weight: 600;
       
 }
-
 .logo{
     width: 15%;
     margin-top: -2rem;
     margin-left: 50px;
     
   }
-.svg{
-    width: 20%;
-}
