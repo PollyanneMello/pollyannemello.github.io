@@ -1,7 +1,15 @@
 body{
     margin: 0px;
-    padding: 0px;
-    background-color: #E9E9E9;
+    background-color: #f7f7f7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    display: grid;
+    
+}
+body::before{
+    content: '';
+    width: 100wh;
+    background-color: #621611;
+    height: 4px;
 }
 ul{
     list-style: none;
@@ -18,7 +26,6 @@ ul{
     display: flex;
     justify-content: center;
     background-color: #D9D9D9;
-    width: 100wh;
     height: 60px;
 }
 a{
@@ -28,14 +35,15 @@ a{
     color: #621611;
     font-size: 1.2rem;
     font-weight: 600;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+      
 }
 
 .logo{
     width: 15%;
-    margin-left: 5rem;
     margin-top: -2rem;
-}
+    margin-left: 50px;
+    
+  }
 .svg{
     width: 20%;
 }
