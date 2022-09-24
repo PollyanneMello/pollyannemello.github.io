@@ -86,24 +86,33 @@ a{
     max-width: 100%;
 }
 
-.botao {
-    display: flex;
-    justify-items: end;
+.botao{
     font-family: 'Comic Neue', cursive;
-    font-weight:700;
-    font-size: 1rem;
-    justify-content: space-between;
+    border-radius: 4px;
+    font-weight: 600;
+    padding: 8px; 
+    transition: 0.3s;
+    place-items: end;
 }
-.botao-baixar, .botao-participar{
-    padding: 10px 5px;
-    box-shadow: solid #D9D9D9;
-    background-color: #c20dc2;
+.botao-cinza{
+    background-color: #D9D9D9;
+    border: #d9d9d9;
+    color: #621611;
+    
+  
+   
 }
-.botão-baixar{
-    background-color: #c20dc2;
+.botao-cinza:hover{
+    background-color: #E9E9E9;
+   
 }
-.botao-participar{
+.botao-vermelho{
     background-color: #621611;
+    border: #d9d9d9;
     color: #ffffff;
+ 
+}
+.botao-vermelho:hover{
+    background-color: #771c16;
 }
 
