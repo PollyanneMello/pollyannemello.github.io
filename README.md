@@ -2,6 +2,8 @@
 Remodelação do site https://marcasdoevangelho.com.br/ ... utilizando  UI Design, HTML, CSS e JS.                                                                                      
 Como está ficando: https://pollyannemello.github.io/
 
+Projeto em Desenvolvimento
+
 Objetivo:     
 
   1- Carrossel com opção de avançar e voltar                                                                                    
